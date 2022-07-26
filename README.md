@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RoccoEE
-- 👀 I’m interested in Rust, Python and VBscript
+- 👀 I’m interested in Rust
 - 🌱 I’m currently learning Rust
 
 <!---
